@@ -4908,6 +4908,14 @@ a:visited {
     background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
 }
 
+#carley-tripp-cover {
+  background-image: url("http://imgur.com/1th2ant");
+}
+
+#carley-tripp-card {
+  background-image: url("http://imgur.com/dm7cxq6");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
